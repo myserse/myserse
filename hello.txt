@@ -5,6 +5,7 @@ hello git!!!
 hello git!!!
 hello git!!!
 hello git!!! 相同位置的更改，master改的
+hello git!!! 这是hot-fix分支更改的内容
 i是编辑，esc退出编辑，光标置顶然后yy+p是复制，wq保存（shift+
 ":"输入wq保存）
 修改文件
