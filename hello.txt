@@ -15,3 +15,4 @@ hello git!!!
 hello git!!!
 i是编辑，esc退出编辑，光标置顶然后yy+p是复制，wq保存（shift+
 ":"输入wq保存）
+修改文件
